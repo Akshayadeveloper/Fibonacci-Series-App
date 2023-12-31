@@ -1,0 +1,44 @@
+/* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap"); 
+* { 
+	box-sizing: border-box; 
+	margin: 0; 
+	padding: 0;
+  color:#fff;
+}
+  body {
+    color:#fff;
+    font-family: sans-serif;
+    text-align: center;
+    overflow: hidden;
+            background: url('https://source.unsplash.com/1920x1080/?puzzle') no-repeat fixed;
+            background-size: cover;
+            animation: sparkleBackground 10s infinite linear;
+  }
+
+  input[type="number"] {
+    width: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  button {
+      background-image:url("https://www.gifcen.com/wp-content/uploads/2022/11/confetti-gif-3.gif");
+   /* background-color: #4CAF50;*/ 
+    background-image:url("https://i.pinimg.com/originals/ce/39/6a/ce396af7ded1a0322df3f368abd8f1de.gif");
+   background-image:url("https://cdn.pixabay.com/animation/2023/06/06/06/51/06-51-32-766_512.gif");
+   
+    color:#fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .output {
+    margin-top: 20px;
+    font-weight: bold;
+  }
