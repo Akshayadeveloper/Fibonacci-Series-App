@@ -6,4 +6,4 @@ Interactive Fibonacci series generator App🧩 accept input 🔣 from user and p
 <img src="https://github.com/Akshayadeveloper/Fibonacci-Series-App/blob/main/IMG_20231231_140600.jpg">
 <img src="https://github.com/Akshayadeveloper/Fibonacci-Series-App/blob/main/IMG_20231231_140544.jpg">
 <img src="https://github.com/Akshayadeveloper/Fibonacci-Series-App/blob/main/IMG_20231231_140524.jpg">
-https://github.com/Akshayadeveloper/Fibonacci-Series-App/blob/main/index.html
+
